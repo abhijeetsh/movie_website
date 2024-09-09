@@ -1,0 +1,16 @@
+.NavBar{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 0px 10px;
+    border: 1.5px solid green;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.links
+{
+ display: flex;
+ justify-content: space-between;
+ gap: 20px;
+}
